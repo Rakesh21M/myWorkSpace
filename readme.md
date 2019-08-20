@@ -1,1 +1,1 @@
-_Go programming language_
+It has most of the important concepts of go programming language
